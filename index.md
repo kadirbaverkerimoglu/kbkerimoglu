@@ -8,5 +8,5 @@ It includes the final assignment that has been carried out using SQL, bash, jp, 
 It includes the wall's group project related to Big Data Management(BDA505) based on the SQL programming language.
 - [Introduction to Computer Programming (Python)(BDA507)](Hotel_Booking_Project.html)<br />
 Exploratory data analysis for a hotel booking data using Python.
-- [Applied Statistics(BDA501)](BDA501-Fast Track Project_11_01_22.pdf)<br />
+- [Applied Statistics(BDA501)](HFT_Fast Track_Project.html)<br />
 This repo includes project related to High Frequency Trading Statistics which is created with SSI-SSCI articles.
