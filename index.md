@@ -7,4 +7,8 @@ It includes the final assignment that has been carried out using SQL, bash, jp, 
 - [Big Data Management(BDA505)](The-Wall_Project_Notebook.html)<br />
 It includes the wall's group project related to Big Data Management(BDA505) based on the SQL programming language.
 - [Introduction to Computer Programming (Python)(BDA507)](Hotel_Booking_Project.html)<br />
-Exploratory data analysis for a hotel booking data using Python.
+Exploratory data analysis for a hotel booking project using Python.
+- [Introduction to Computer Programming (Python)(BDA507)](TAKE HOME FINAL EXAM PART A(Keyset EDA).html)<br />
+Exploratory data analysis for Madduck company keyset data using Python. This analysis is just part of final exam.
+- [Introduction to Computer Programming (Python)(BDA507)](Python_Final_Madduck_Case_Study.html)<br />
+Deep Dive into Customer Churn and Retention. Calculate churn rate with top countries and applications. Investigated churn patterns and concentrations throughout countries and application packages. Created different metrics to predict customer retention. 
