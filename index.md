@@ -12,3 +12,5 @@ Exploratory data analysis for a hotel booking project using Python.
 Exploratory data analysis for Madduck company keyset data using Python. This analysis is just part of final exam.
 - [Introduction to Computer Programming (Python)(BDA507)](Python_Final_Madduck_Case_Study.html)<br />
 Deep Dive into Customer Churn and Retention. Calculate churn rate with top countries and applications. Investigated churn patterns and concentrations throughout countries and application packages. Created different metrics to predict customer retention. 
+- [IBM Data Science Capstone Project](https://github.com/kbkerimoglu/kbkerimoglu.github.io/tree/master/IBM_Data_Science_Capstone_Project_SpaceX)<br />
+First, I gathered information about SpaceX using web scraping and API methods. Then, I wrangling the data I received and printed it to csv. I analyzed the information in the data with SQL queries and data visualization.
